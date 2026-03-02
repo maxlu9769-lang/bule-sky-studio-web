@@ -23,9 +23,8 @@ This is not just a gaming club. We are a learning community that combines **Real
 
 ---
 
-## 📅 Next Meet
-- [ ] **Demo**: Capturing distant details with a handmade lens.
-- [ ] **Intro**: Getting started with the DaVinci Resolve UI.
+## 📅 Next Meet.
+- [ ] **Intro**: Getting started with the basic structure of the aircraft
 - [ ] **Recruitment**: Limited spots available; priority for active GCR members.
 
 ---
